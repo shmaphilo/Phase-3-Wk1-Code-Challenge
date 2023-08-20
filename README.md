@@ -1,7 +1,13 @@
 
 # Toy Problems
 
-This repository contains solutions to three Toy Problems: converting 12-hour time to 24-hour time, determining if exactly two out of three integers are positive, and finding the highest value of consonant substrings.
+This repository contains solutions to three Toy Problems:
+
+1.Converting 12-hour time to 24-hour time
+
+2.Determining if exactly two out of three integers are positive
+
+3.Finding the highest value of consonant substrings.
 
 ## Challenge 1: Converting 12-hour time to 24-hour time
 
